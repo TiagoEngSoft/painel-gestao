@@ -159,7 +159,7 @@ export const boardData = {
         {
           id: 13,
           title: "Decidir a arquitetura",
-          description: "Arquitetura modular - (micro serviços)"
+          description: "Arquitetura modular - para cada micro serviço"
         }
       ]
     }
